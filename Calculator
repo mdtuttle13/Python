@@ -1,0 +1,6 @@
+# I created a basic calculator function using Python to add two numbers
+
+first = input ("First: ")
+second = input ("Second: ")
+sum = float(first) + float(second)
+print("Sum: " + str(sum))
