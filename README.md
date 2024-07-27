@@ -1,0 +1,1 @@
+Thank you for taking the time to review my portfolio. This part of my portfolio is to show the coding of my Python data analytic projects. Let me know if you have any questions, and thank you for your time!
