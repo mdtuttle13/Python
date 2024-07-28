@@ -1,0 +1,10 @@
+# This is Python code I wrote in order to convert weight between pounds and kilograms, both ways.
+
+weight = int(input("Weight: "))
+unit = input("(K)gs or (L)bs: ")
+if unit.upper() == "K":
+    converted = weight / 0.45
+    print("Weight in Lbs: " + str(converted))
+else:
+    converted = weight * 0.45
+    print("Weight in Kgs: " + str(converted))
